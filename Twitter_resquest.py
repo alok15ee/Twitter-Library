@@ -239,7 +239,7 @@ def create_request_pagination(req_url):
 
 
 
-def create_request_campaign(req_url, camp_id):
+def create_request_campaign_line_list(req_url, camp_id):
     #try:
         #time.sleep(10)
 
